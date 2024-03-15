@@ -17,7 +17,9 @@ b. If a commit is made to develop branch, just test the product, do not push to 
 5. Use the following pre-built container for your application: hshar/webapp
    The code should reside in '/var/www/html'
 6. The above tasks should be defined in a Jenkins Pipeline with the following
-jobs:
+
+
+**jobs:**
 a. Jobl : build
 b. Job2 : test
 c. Job3 : prod
