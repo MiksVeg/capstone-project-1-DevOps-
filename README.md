@@ -4,7 +4,7 @@ You have been hired as a Sr. DevOps Engineer in Abode Software. They want to
 implement DevOps Lifecycle in their company. You have been asked to
 implement this lifecycle as fast as possible. Abode Software is a product-based
 company and their product is available on this GitHub link.
-https://github.com/hshar/website.git
+https://github.com/MiksVeg/DevOPs-Project.git
 
 **Following are the specifications of the lifecycle:**
 1. Install the necessary software on the machines using a configuration
